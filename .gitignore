@@ -1,0 +1,21 @@
+# Ignorar arquivos de cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignorar ambientes virtuais
+venv/
+env/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar pastas do PyCharm
+.idea/
+
+# Ignorar caches do pytest
+.cache/
+
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
